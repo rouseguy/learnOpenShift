@@ -4,6 +4,18 @@
 ### What is OpenShift?
 (TODO)
 
+**About the workshop**
+
+I took the material from [here](https://github.com/gshipley/openshift-workshops-1)
+
+Run the following in the repo
+
+```
+     $ bundle exec puma
+```
+
+Now, in the browser open: [http://localhost:9292/](http://localhost:9292/) to browse the training material that was used to learn/execute the below given commands
+
 **Installing OpenShift client**
 
 We will use the Python client `powershift`
