@@ -1,7 +1,8 @@
 # Introduction to OpenShift
 
-(TODO)
+
 ### What is OpenShift?
+(TODO)
 
 **Installing OpenShift client**
 
