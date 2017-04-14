@@ -18,8 +18,13 @@ We will use the Python client `powershift`
 
 **Login to the OpenShift cluster**
 
+```
     $ oc login https://HOST:8443      # Replace HOST with the cluster name
-    
+```
+
 **Create a new project** 
 
+```
     $ oc new-project oc-test-1
+```
+
