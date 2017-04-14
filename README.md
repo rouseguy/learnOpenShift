@@ -20,6 +20,8 @@ We will use the Python client `powershift`
 
 ```
     $ oc login https://HOST:8443      # Replace HOST with the cluster name
+    $ Username: <Enter username>
+    $ Paassword: <Enter password>
 ```
 
 **Create a new project** 
@@ -27,4 +29,10 @@ We will use the Python client `powershift`
 ```
     $ oc new-project oc-test-1
 ```
+
+Now login to the web-console: [https://HOST:8443](https://HOST:8443)
+
+You should see the project `oc-test-1` listed there.
+
+
 
